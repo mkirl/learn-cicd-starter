@@ -4,6 +4,8 @@
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
+./badge.svg
+
 This README is for reference purposes only! Follow the instructions in the course, don't start doing all the steps here in the README.
 
 ## Local Development
